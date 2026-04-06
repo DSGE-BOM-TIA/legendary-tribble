@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0a0a0a;
+  color: white;
+}
+
+nav {
+  padding: 15px;
+  background: black;
+}
+
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  padding: 40px;
+}
